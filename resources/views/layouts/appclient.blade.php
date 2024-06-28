@@ -22,17 +22,17 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
     <!-- Libraries Stylesheet -->
-    <link href="{{asset('assets/lib/animate/animate.min.css')}}" rel="stylesheet">
-    <link href="{{asset('assets/lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
+    <link href="{{asset('lib/animate/animate.min.css')}}" rel="stylesheet">
+    <link href="{{asset('lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="{{asset('assets/css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="{{asset('assets/css/style.css')}}" rel="stylesheet">
-    <link href="{{asset('assets/css/about.css')}}" rel="stylesheet">
-    <script src="{{asset('assets/js/mapdata.js')}}"></script>
-    <script src="{{asset('assets/js/countrymap.js')}}"></script>
+    <link href="{{asset('css/style.css')}}" rel="stylesheet">
+    <link href="{{asset('css/about.css')}}" rel="stylesheet">
+    <script src="{{asset('js/mapdata.js')}}"></script>
+    <script src="{{asset('js/countrymap.js')}}"></script>
     <script src="https://code.highcharts.com/highcharts.js"></script>
 </head>
 <body>
@@ -47,14 +47,14 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-<script src="{{asset('assets/lib/wow/wow.min.js')}}"></script>
-<script src="{{asset('assets/lib/easing/easing.min.js')}}"></script>
-<script src="{{asset('assets/lib/waypoints/waypoints.min.js')}}"></script>
-<script src="{{asset('assets/lib/counterup/counterup.min.js')}}"></script>
-<script src="{{asset('assets/lib/owlcarousel/owl.carousel.min.js')}}"></script>
+<script src="{{asset('lib/wow/wow.min.js')}}"></script>
+<script src="{{asset('lib/easing/easing.min.js')}}"></script>
+<script src="{{asset('lib/waypoints/waypoints.min.js')}}"></script>
+<script src="{{asset('lib/counterup/counterup.min.js')}}"></script>
+<script src="{{asset('lib/owlcarousel/owl.carousel.min.js')}}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <!-- Template Javascript -->
-<script src="{{asset('assets/js/main.js')}}"></script>
+<script src="{{asset('js/main.js')}}"></script>
 </body>
 </html>
